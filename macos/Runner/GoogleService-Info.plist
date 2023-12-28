@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCsR2d2Ir48KXQJkbL0zYU0b_PtomjxSzg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>292229235492</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.celatukApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>celatuk-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>celatuk-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:292229235492:ios:7270242e0da53b664ee9b1</string>
+</dict>
+</plist>
